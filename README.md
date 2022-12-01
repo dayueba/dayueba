@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 ### I'm dayueba
 
 - 后端开发，主要使用 go 和 nodejs
-- 目前在杭州工作工作
+- 目前在杭州工作
 - 对数据库，消息队列，网络编程感兴趣
 - 平时喜欢分享 & 写博客
 
@@ -39,10 +39,9 @@ Here are some ideas to get you started:
 
 ### 开源项目
 - [mrpc](https://github.com/dayueba/mrpc)
-- [记录各种学习过程中的example](https://github.com/dayueba/examples)
+- [记录各种examples](https://github.com/dayueba/examples)
 
 
 ### 关于我
 - [技术笔记](https://dayueba.gitee.io/blog/#/)
-- [掘金](https://juejin.cn/user/3562073403979976)
-- [微博](http://weibo.com/jayinfo)
+- [掘金主页](https://juejin.cn/user/3562073403979976)
